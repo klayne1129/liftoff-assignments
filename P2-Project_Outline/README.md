@@ -24,14 +24,33 @@ o	USER LOGIN: As a user, I can create an account and log in to the application.
 o	PRINT: As a user, I want to be able to print my recipe for ease of use.
 
 ### Technologies
-Node.js
+•	Java
 
-MongoDB
+•	JavaScript
 
-Express
+•	Spring Boot (REST API Framework)
 
-React
+•	Spring (Dependency Management)
+
+•	Spring Security (Authentication and Authorization –JWT)
+
+•	Maven (Dependency Management)
+
+•	Node.js
+
+•	React
+
+•	Bootstrap
+
+•	H2 Memory Database
+
+•	Visual Studio Code
+
+•	Eclipse
+
+
+
 ### What I'll Have to Learn
-I'll need to learn how to use React,Express, and MongoDB. Honestly I'm not sold entirely on my backend setup. I might build a Java stck on the server side with Spring Boot and a front-end with React and JavaScript.
+I'll need to learn how to use React,Express,Maven, and H2 Memory Database. 
 ### Project Tracker
 https://trello.com/b/KwFa20ab/liftoff-project
